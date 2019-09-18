@@ -10,3 +10,6 @@ src: 放的是源代码
 https://blog.csdn.net/ajianyingxiaoqinghan/article/details/71435098
 
 https://www.cnblogs.com/sleepwalker/p/3676600.html
+
+
+期待有志之士能更新python版的Retinex
